@@ -1,5 +1,7 @@
 ## APIRest
 
+<p>Arquivo Collection Insomnia no diretório /storage/json-files/Empresta-api.json</p>
+
 <p>Recursos</p>
 
 - listar Convênios
